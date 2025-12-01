@@ -1,0 +1,20 @@
+/* External CSS for question 4 */
+body {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.external-h1 {
+    color: #2980b9;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.external-p {
+    color: #27ae60;
+    font-family: 'Courier New', monospace;
+    font-size: 1.1rem;
+    padding: 10px;
+    border-left: 3px solid #27ae60;
+    background-color: #f0f8f0;
+}
